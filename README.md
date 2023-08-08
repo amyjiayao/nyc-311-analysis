@@ -1,6 +1,6 @@
 # nyc-311-analysis
 
-DISCLAIMER: The nature of the project is for demonstrative purposes only. As a result, the data processing phase is simplified. In order to depict more accurate visualizations, it is necessary to further process and finetune the raw data. 
+DISCLAIMER: The nature of this project is for demonstrative purposes only. As a result, the data processing phase was simplified. In order to depict more accurate visualizations, it is necessary to further process and finetune the raw data. 
 
 Please read the PDF report for an analysis summary. All images can be viewed in the report or via the "images" folder.
 
