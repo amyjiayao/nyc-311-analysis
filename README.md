@@ -1,9 +1,7 @@
 # nyc-311-analysis
 
-Please read the PDF report for analysis summary.
+DISCLAIMER: The nature of the project is for demonstrative purposes only. As a result, the data processing phase is simplified. Please further refine the data in order to depict more accurate visualizations. 
 
-All images can be viewd in the report or via the "images" folder.
+Please read the PDF report for an analysis summary. All images can be viewed in the report or via the "images" folder.
 
-Data Source: https://opendata.cityofnewyork.us/data
-
-The file "311_Service_Requests_from_2022.csv" is not uploaded here due to its size.
+The full data file "311_Service_Requests_from_2022.csv" was not uploaded due to the size limit. The raw data set was downloaded via https://opendata.cityofnewyork.us/data
